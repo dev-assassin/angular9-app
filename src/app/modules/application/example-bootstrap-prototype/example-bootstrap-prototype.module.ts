@@ -1,7 +1,7 @@
-import {NgModule} from '@angular/core';
-import {CommonModule} from '@angular/common';
+import { NgModule } from '@angular/core';
+import { CommonModule } from '@angular/common';
 
-import {ExampleBootstrapPrototypeRoutingModule} from './example-bootstrap-prototype-routing.module';
+import { ExampleBootstrapPrototypeRoutingModule } from './example-bootstrap-prototype-routing.module';
 import { ExampleBootstrapPrototypeComponent } from './example-bootstrap-prototype.component';
 
 
@@ -19,4 +19,4 @@ import { ExampleBootstrapPrototypeComponent } from './example-bootstrap-prototyp
     providers: []
 })
 
-export class ExampleBootstrapPrototypeModule {}
+export class ExampleBootstrapPrototypeModule { }
