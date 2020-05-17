@@ -1,3 +1,7 @@
 User-agent: *
 Disallow:
+<<<<<<< HEAD
 Sitemap: https://angular.dev-assassin.com/sitemap.xml
+=======
+Sitemap: https://angular.ganatan.com/sitemap.xml
+>>>>>>> 77fa1265ff1f6831a6eef0b7db1bd9c9d98e4aa5

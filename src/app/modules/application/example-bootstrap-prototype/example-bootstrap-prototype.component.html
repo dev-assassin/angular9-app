@@ -1,4 +1,5 @@
 <div class="row justify-content-center pb-4">
+<<<<<<< HEAD
     <div class="col-md-3 text-center">
         <div class="list-group">
             <button *ngFor="let item of features; let i=index" (click)=changeItem(item) type="button" 
@@ -11,4 +12,16 @@
     <div class="col-sm-9 text-center">
         <router-outlet></router-outlet>
     </div>
+=======
+  <div class="col-md-3 text-center">
+    <div class="list-group">
+      <button *ngFor="let item of features; let i=index" (click)="changeItem(item)" type="button"
+        class="list-group-item list-group-item-action active" [ngClass]="{active : i+1 == current}"
+        routerLink="/bootstrap-prototype/{{ item.link }}">{{ item.name }}</button>
+    </div>
+  </div>
+  <div class="col-md-9 text-center">
+    <router-outlet></router-outlet>
+  </div>
+>>>>>>> 77fa1265ff1f6831a6eef0b7db1bd9c9d98e4aa5
 </div>

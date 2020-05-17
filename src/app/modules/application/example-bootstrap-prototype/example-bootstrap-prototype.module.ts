@@ -4,6 +4,7 @@ import { CommonModule } from '@angular/common';
 import { ExampleBootstrapPrototypeRoutingModule } from './example-bootstrap-prototype-routing.module';
 import { ExampleBootstrapPrototypeComponent } from './example-bootstrap-prototype.component';
 
+<<<<<<< HEAD
 
 @NgModule({
     imports: [
@@ -19,4 +20,18 @@ import { ExampleBootstrapPrototypeComponent } from './example-bootstrap-prototyp
     providers: []
 })
 
+=======
+@NgModule({
+  declarations: [
+    ExampleBootstrapPrototypeComponent,
+  ],
+  exports: [
+    ExampleBootstrapPrototypeComponent,
+  ],
+  imports: [
+    CommonModule,
+    ExampleBootstrapPrototypeRoutingModule
+  ]
+})
+>>>>>>> 77fa1265ff1f6831a6eef0b7db1bd9c9d98e4aa5
 export class ExampleBootstrapPrototypeModule { }

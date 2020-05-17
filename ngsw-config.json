@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "$schema": "./node_modules/@angular/service-worker/config/schema.json",
     "index": "/index.html",
     "assetGroups": [
@@ -28,3 +29,33 @@
     ]
   }
   
+=======
+  "$schema": "./node_modules/@angular/service-worker/config/schema.json",
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "resources": {
+        "files": [
+          "/favicon.ico",
+          "/index.html",
+          "/manifest.webmanifest",
+          "/*.css",
+          "/*.js"
+        ]
+      }
+    }, {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "resources": {
+        "files": [
+          "/assets/**",
+          "/*.(eot|svg|cur|jpg|png|webp|gif|otf|ttf|woff|woff2|ani)"
+        ]
+      }
+    }
+  ]
+}
+>>>>>>> 77fa1265ff1f6831a6eef0b7db1bd9c9d98e4aa5

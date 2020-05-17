@@ -8,47 +8,83 @@
 
 
 <url>
+<<<<<<< HEAD
   <loc>https://angular.dev-assassin.com/</loc>
+=======
+  <loc>https://angular.ganatan.com/</loc>
+>>>>>>> 77fa1265ff1f6831a6eef0b7db1bd9c9d98e4aa5
   <lastmod>2020-04-16T10:13:39+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
+<<<<<<< HEAD
   <loc>https://angular.dev-assassin.com/about</loc>
+=======
+  <loc>https://angular.ganatan.com/about</loc>
+>>>>>>> 77fa1265ff1f6831a6eef0b7db1bd9c9d98e4aa5
   <lastmod>2020-04-16T10:13:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
+<<<<<<< HEAD
   <loc>https://angular.dev-assassin.com/contact</loc>
+=======
+  <loc>https://angular.ganatan.com/contact</loc>
+>>>>>>> 77fa1265ff1f6831a6eef0b7db1bd9c9d98e4aa5
   <lastmod>2020-04-16T10:13:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
+<<<<<<< HEAD
   <loc>https://angular.dev-assassin.com/signin</loc>
+=======
+  <loc>https://angular.ganatan.com/signin</loc>
+>>>>>>> 77fa1265ff1f6831a6eef0b7db1bd9c9d98e4aa5
   <lastmod>2020-04-16T10:13:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
+<<<<<<< HEAD
   <loc>https://angular.dev-assassin.com/bootstrap-prototype</loc>
+=======
+  <loc>https://angular.ganatan.com/bootstrap-prototype</loc>
+>>>>>>> 77fa1265ff1f6831a6eef0b7db1bd9c9d98e4aa5
   <lastmod>2020-04-16T10:13:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
+<<<<<<< HEAD
   <loc>https://angular.dev-assassin.com/reactive-form</loc>
+=======
+  <loc>https://angular.ganatan.com/reactive-form</loc>
+>>>>>>> 77fa1265ff1f6831a6eef0b7db1bd9c9d98e4aa5
   <lastmod>2020-04-16T10:13:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
+<<<<<<< HEAD
   <loc>https://angular.dev-assassin.com/httpclient</loc>
+=======
+  <loc>https://angular.ganatan.com/httpclient</loc>
+>>>>>>> 77fa1265ff1f6831a6eef0b7db1bd9c9d98e4aa5
   <lastmod>2020-04-16T10:13:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
+<<<<<<< HEAD
   <loc>https://angular.dev-assassin.com/contact/mailing</loc>
+=======
+  <loc>https://angular.ganatan.com/contact/mailing</loc>
+>>>>>>> 77fa1265ff1f6831a6eef0b7db1bd9c9d98e4aa5
   <lastmod>2020-04-16T10:13:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
+<<<<<<< HEAD
   <loc>https://angular.dev-assassin.com/contact/map</loc>
+=======
+  <loc>https://angular.ganatan.com/contact/map</loc>
+>>>>>>> 77fa1265ff1f6831a6eef0b7db1bd9c9d98e4aa5
   <lastmod>2020-04-16T10:13:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>

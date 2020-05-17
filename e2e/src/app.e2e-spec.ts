@@ -10,7 +10,11 @@ describe('workspace-project App', () => {
 
   it('should display welcome message', () => {
     page.navigateTo();
+<<<<<<< HEAD
     expect(page.getTitleText()).toEqual('angular9-app app is running!');
+=======
+    expect(page.getTitleText()).toEqual('angular-starter');
+>>>>>>> 77fa1265ff1f6831a6eef0b7db1bd9c9d98e4aa5
   });
 
   afterEach(async () => {

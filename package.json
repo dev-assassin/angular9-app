@@ -1,6 +1,10 @@
 {
   "name": "angular-starter",
+<<<<<<< HEAD
   "version": "9.1.4",
+=======
+  "version": "9.1.7",
+>>>>>>> 77fa1265ff1f6831a6eef0b7db1bd9c9d98e4aa5
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -16,6 +20,7 @@
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "https://github.com/dev-assassin/angular9-app.git"
   },
   "author": {
@@ -43,10 +48,41 @@
     "@fortawesome/fontawesome-free": "5.13.0",
     "@nguniversal/express-engine": "9.1.0",
     "bootstrap": "4.4.1",
+=======
+    "url": "https://github.com/ganatan/angular9-app.git"
+  },
+  "author": {
+    "name": "danny",
+    "email": "dannyganatan@gmail.com",
+    "url": "https://www.ganatan.com/"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganatan/angular9-app/issues"
+  },
+  "homepage": "https://github.com/ganatan/angular9-app#readme",
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "9.1.7",
+    "@angular/common": "9.1.7",
+    "@angular/compiler": "9.1.7",
+    "@angular/core": "9.1.7",
+    "@angular/forms": "9.1.7",
+    "@angular/platform-browser": "9.1.7",
+    "@angular/platform-browser-dynamic": "9.1.7",
+    "@angular/platform-server": "9.1.7",
+    "@angular/router": "9.1.7",
+    "@angular/service-worker": "9.1.7",
+    "@asymmetrik/ngx-leaflet": "7.0.0",
+    "@fortawesome/fontawesome-free": "5.13.0",
+    "@nguniversal/express-engine": "9.1.1",
+    "bootstrap": "4.5.0",
+>>>>>>> 77fa1265ff1f6831a6eef0b7db1bd9c9d98e4aa5
     "express": "4.17.1",
     "chart.js": "2.9.3",
     "jquery": "3.5.1",
     "leaflet": "1.6.0",
+<<<<<<< HEAD
     "ng2-charts": "2.3.0",
     "rxjs": "6.5.5",
     "tslib": "1.11.2",
@@ -60,17 +96,41 @@
     "@nguniversal/builders": "9.1.0",
     "@types/express": "4.17.6",
     "@types/node": "13.13.5",
+=======
+    "ng2-charts": "2.3.1",
+    "rxjs": "6.5.5",
+    "tslib": "2.0.0",
+    "zone.js": "0.10.3"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "0.901.6",
+    "@angular/cli": "9.1.6",
+    "@angular/compiler-cli": "9.1.7",
+    "@angular/language-service": "9.1.7",
+    "@nguniversal/builders": "9.1.1",
+    "@types/express": "4.17.6",
+    "@types/node": "14.0.1",
+>>>>>>> 77fa1265ff1f6831a6eef0b7db1bd9c9d98e4aa5
     "@types/jasmine": "3.5.10",
     "@types/jasminewd2": "2.0.8",
     "codelyzer": "5.2.2",
     "jasmine-core": "3.5.0",
     "jasmine-spec-reporter": "5.0.2",
+<<<<<<< HEAD
     "karma": "5.0.4",
     "karma-chrome-launcher": "3.1.0",
     "karma-coverage-istanbul-reporter": "3.0.2",
     "karma-jasmine": "3.1.1",
     "karma-jasmine-html-reporter": "1.5.3",
     "protractor": "5.4.4",
+=======
+    "karma": "5.0.5",
+    "karma-chrome-launcher": "3.1.0",
+    "karma-coverage-istanbul-reporter": "3.0.2",
+    "karma-jasmine": "3.1.1",
+    "karma-jasmine-html-reporter": "1.5.4",
+    "protractor": "7.0.0",
+>>>>>>> 77fa1265ff1f6831a6eef0b7db1bd9c9d98e4aa5
     "ts-node": "8.10.1",
     "tslint": "6.1.2",
     "typescript": "3.8.3"
